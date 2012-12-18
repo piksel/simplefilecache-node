@@ -1,0 +1,14 @@
+{
+  "name": "simplefilecache",
+  "description": "Returns a getter function which keeps a cache of the file in memory and only re-reads the file if it has been modified",
+  "version": "0.1.1",
+  "homepage": "http://github.com/piksel/simplefilecache-node.git",
+  "author": "Nils Måsén <nils@piksel.se>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/piksel/simplefilecache-node.git"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
